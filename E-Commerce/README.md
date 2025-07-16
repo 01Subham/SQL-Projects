@@ -108,20 +108,6 @@ All procedures are tested with real sample data and are fully functional.
 ```
 
 ---
-
-## 📁 Suggested Folder Structure
-
-```
-Ecommerce-DB/
-│
-├── schema.sql                 # All CREATE TABLE statements
-├── procedures.sql             # Stored procedures
-├── views.sql                  # View creation scripts
-├── queries.sql                # SELECT queries for reports
-├── insert_sample_data.sql     # Sample data insertions
-├── Ecommerce_README.md        # This file
-└── assets/
-    └── er_diagram.png         # Optional ER diagram image
 ```
 
 ---
