@@ -98,13 +98,13 @@ All procedures are tested with real sample data and are fully functional.
 
 ---
 
-## 🧾 E-R Diagram (Recommended to Add)
+## 🧾 E-R Diagram
 
 > <img width="2201" height="2320" alt="E-R Model" src="https://github.com/user-attachments/assets/0f14cbc8-ccca-4849-ba19-c715f23b33e2" />
 
 
 ```
-![ER Diagram](assets/er_diagram.png)
+
 ```
 
 ---
